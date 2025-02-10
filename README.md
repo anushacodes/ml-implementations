@@ -1,7 +1,7 @@
 # ml-implementations
 all my implementations for learning purposes
 
-Linear Regression
+Linear Regression  
 Logistic Regression	​					
 Support Vector Machines (SVM)	​					
 K-Means	​					
